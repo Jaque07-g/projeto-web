@@ -1,7 +1,7 @@
 # projeto-web
 projeto teste
 
-# Equipe
+## Equipe
     
 1. Jaqueline
 2. Maria
